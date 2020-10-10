@@ -15,3 +15,7 @@ flask_restful
         $ flask run
 
 外部可见的服务器: flask run --host=0.0.0.0
+
+
+### 创建超级账户
+http://127.0.0.1:5000/api/member/origin
